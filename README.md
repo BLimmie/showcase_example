@@ -334,12 +334,3 @@ Key Results
 Future Work
 ---------------
 Normally, this is where you would put possible improvements to your model or things that you are currently working on (ie. what you plan to get done in time for project showcaase). However, this is a finished project, so it has no future work to add.
-
-Acknowledgments
----------------
-
-<http://stackoverflow.com/questions/26296020/github-displays-all-code-chunks-from-readme-rmd-despite-include-false>
-
-<https://www.r-statistics.com/2013/07/creating-good-looking-survival-curves-the-ggsurv-function/>
-
-<https://www.stat.ubc.ca/~rollin/teach/643w04/lec/node69.html>
