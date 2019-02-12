@@ -227,13 +227,11 @@ additional covariates, or with a few discrete valued covariate levels.
 We make use of the ggsurv function here to create aesthetically pleasing
 survival plots:
 
-<img src='https://github.com/johnrandazzo/surv_nflrb/blob/master/figure-markdown_strict/unnamed-chunk-10-2.png' >
-
 <img src='https://github.com/johnrandazzo/surv_nflrb/blob/master/figure-markdown_strict/unnamed-chunk-10-3.png' >
 
 <img src='https://github.com/johnrandazzo/surv_nflrb/blob/master/figure-markdown_strict/unnamed-chunk-10-4.png' >
 
-<img src='https://github.com/johnrandazzo/surv_nflrb/blob/master/figure-markdown_strict/unnamed-chunk-10-5.png' >
+
 
 
 
