@@ -1,3 +1,8 @@
+# Example README for Data Science UCSB's Project Showcase
+
+This project was not created by me. The original can be found here:
+<https://github.com/johnrandazzo/surv_nflrb/>
+
 Abstract
 --------
 
